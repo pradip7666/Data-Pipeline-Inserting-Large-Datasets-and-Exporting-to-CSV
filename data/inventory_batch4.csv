@@ -1,0 +1,11 @@
+item_id,item_name,quantity,source,last_updated,price
+31,Product D1,400,Supplier 4,2024-08-28 05:55:54.147756,49.99
+32,Product D2,401,Supplier 4,2024-08-28 05:55:54.147756,50.99
+33,Product D3,402,Supplier 4,2024-08-28 05:55:54.147756,51.99
+34,Product D4,403,Supplier 4,2024-08-28 05:55:54.147756,52.99
+35,Product D5,404,Supplier 4,2024-08-28 05:55:54.147756,53.99
+36,Product D6,405,Supplier 4,2024-08-28 05:55:54.147756,54.99
+37,Product D7,406,Supplier 4,2024-08-28 05:55:54.147756,55.99
+38,Product D8,407,Supplier 4,2024-08-28 05:55:54.147756,56.99
+39,Product D9,408,Supplier 4,2024-08-28 05:55:54.147756,57.99
+40,Product D10,409,Supplier 4,2024-08-28 05:55:54.147756,58.99
